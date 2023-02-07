@@ -8,6 +8,8 @@
 
 ## Currency.com (prod version)
 #### https://docs.google.com/spreadsheets/d/1IRNqX_MQk_cc-EeEnRM_cg48ZrUUz8MwJH2lxyOqbBE/edit?usp=sharing
+#### https://docs.google.com/spreadsheets/d/1QdxEwbg2OyvY-w1NdjvXwgxwkEXx7YelUc593Y432zg/edit#gid=0
+#### https://docs.google.com/spreadsheets/d/1qYOZj90t7FWDbFw2FthYfDGNsDXEhauJL3p-Avh_sqE/edit?usp=sharing
 
 ## Bag-report (Тестировщик главной страницы Яндекса)
 #### https://docs.google.com/spreadsheets/d/1HCy6lzXvDCP-JbqCDFpqZBE3_DJHN5AbJtkV0kEeVIY/edit#gid=0
