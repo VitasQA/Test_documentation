@@ -13,3 +13,6 @@
 
 ## Bag-report (Тестировщик главной страницы Яндекса)
 #### https://docs.google.com/spreadsheets/d/1HCy6lzXvDCP-JbqCDFpqZBE3_DJHN5AbJtkV0kEeVIY/edit#gid=0
+
+## Checklist_"Сигнатек"
+#### https://docs.google.com/spreadsheets/d/1P45oVYVffWNpBsStI6p_2hsoHmEHAfyP/edit#gid=1278986524
